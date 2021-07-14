@@ -1,2 +1,3 @@
-# Gitfunda
-basic fundamentals
+# Git
+fundamentals
+first commit
