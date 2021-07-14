@@ -1,0 +1,2 @@
+# Gitfunda
+basic fundamentals
